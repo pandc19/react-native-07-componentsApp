@@ -85,9 +85,10 @@ export const HomeScreen = () => {
               isLast={index === menuItems.length - 1}
             />
           ))}
+
           <View style={{marginTop: 30}} />
 
-          {menuItems.map((item, index) => (
+          {uiMenuItems.map((item, index) => (
             <MenuItem
               key={item.component}
               {...item}
@@ -95,9 +96,10 @@ export const HomeScreen = () => {
               isLast={index === menuItems.length - 1}
             />
           ))}
+
           <View style={{marginTop: 30}} />
 
-          {uiMenuItems.map((item, index) => (
+          {menuItems.map((item, index) => (
             <MenuItem
               key={item.component}
               {...item}
