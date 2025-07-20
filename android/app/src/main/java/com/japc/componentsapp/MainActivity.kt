@@ -1,4 +1,4 @@
-package com.componentsapp
+package com.japc.componentsapp
 
 import android.os.Bundle;
 
