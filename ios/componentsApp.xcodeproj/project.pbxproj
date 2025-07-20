@@ -11,6 +11,7 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2A50CF512E2D80FC006E4681 /* electronic.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A50CF502E2D80FC006E4681 /* electronic.png */; };
 		75F703E352F7CB15DC8B0DF8 /* libPods-componentsApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D7DD6AC4A47A4EBD658B62C6 /* libPods-componentsApp.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		CC15C4837CA892F1A1011E7F /* libPods-componentsApp-componentsAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BFA65C08273111872E3525B /* libPods-componentsApp-componentsAppTests.a */; };
@@ -39,6 +40,7 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = componentsApp/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = componentsApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		258B181BCD369073B605FF8B /* Pods-componentsApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-componentsApp.release.xcconfig"; path = "Target Support Files/Pods-componentsApp/Pods-componentsApp.release.xcconfig"; sourceTree = "<group>"; };
+		2A50CF502E2D80FC006E4681 /* electronic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = electronic.png; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = componentsApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8BFA65C08273111872E3525B /* libPods-componentsApp-componentsAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-componentsApp-componentsAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9EABE847A4E4D4B69702181 /* Pods-componentsApp-componentsAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-componentsApp-componentsAppTests.debug.xcconfig"; path = "Target Support Files/Pods-componentsApp-componentsAppTests/Pods-componentsApp-componentsAppTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				13B07FB71A68108700A75B9A /* main.m */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
 				F96FE2A6B2514DAAF9FD4735 /* PrivacyInfo.xcprivacy */,
+				2A50CF502E2D80FC006E4681 /* electronic.png */,
 			);
 			name = componentsApp;
 			sourceTree = "<group>";
@@ -247,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				2A50CF512E2D80FC006E4681 /* electronic.png in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				E1C1E2CA00746090C821A4EB /* PrivacyInfo.xcprivacy in Resources */,
 			);
